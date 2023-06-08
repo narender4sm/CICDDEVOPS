@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author malgi
- *
- */
-module CICDjenkins {
-}
